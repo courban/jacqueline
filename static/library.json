@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "payload": [
+    {
+      "id": 1,
+      "title": "Chanson d'automne",
+      "date_added": "1720905197271",
+      "author": "pc",
+      "lang": "fr",
+      "country": "fr",
+      "difficulty": "hard",
+      "lyrics": [
+        {
+          "timestamp": 2000,
+          "text": "Les sanglots longs"
+        },
+        {
+          "timestamp": 5000,
+          "text": "Des violons"
+        },
+        {
+          "timestamp": 7000,
+          "text": "De l’automne"
+        },
+        {
+          "timestamp": 9000,
+          "text": "Blessent mon cœur"
+        },
+        {
+          "timestamp": 12000,
+          "text": "D’une langueur"
+        },
+        {
+          "timestamp": 14000,
+          "text": "Monotone."
+        },
+        {
+          "timestamp": 15000,
+          "text": ""
+        },
+        {
+          "timestamp": 16000,
+          "text": "Tout suffocant"
+        },
+        {
+          "timestamp": 18000,
+          "text": "Et blême, quand"
+        },
+        {
+          "timestamp": 20000,
+          "text": "Sonne l’heure,"
+        },
+        {
+          "timestamp": 22000,
+          "text": "Je me souviens"
+        },
+        {
+          "timestamp": 24000,
+          "text": "Des jours anciens"
+        },
+        {
+          "timestamp": 26000,
+          "text": "Et je pleure"
+        },
+        {
+          "timestamp": 28000,
+          "text": ""
+        },
+        {
+          "timestamp": 29000,
+          "text": "Et je m’en vais"
+        },
+        {
+          "timestamp": 31000,
+          "text": "Au vent mauvais"
+        },
+        {
+          "timestamp": 33000,
+          "text": "Qui m’emporte"
+        },
+        {
+          "timestamp": 35000,
+          "text": "Deçà, delà,"
+        },
+        {
+          "timestamp": 37000,
+          "text": "Pareil à la"
+        },
+        {
+          "timestamp": 39000,
+          "text": "Feuille morte. "
+        }
+      ]
+    }
+  ]
+}
